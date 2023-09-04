@@ -10,10 +10,10 @@ export async function drawTable() {
       const ctx = canvas.getContext('2d');
   
       // Set up table dimensions and styles
-      const cellWidth = 160;
+      const cellWidth = 50;
       const cellHeight = 30;
       ctx.font = '16px sans-serif';
-      ctx.lineWidth = 1;
+      ctx.lineWidth = 0;
   
       // Draw table header
       ctx.fillText('Language', 10, 30);

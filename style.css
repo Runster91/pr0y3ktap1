@@ -7,4 +7,5 @@ body{
 canvas {
   background-color: rgb(173, 143, 143);
   color: white;
+  display: flex;
 }
