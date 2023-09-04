@@ -1,0 +1,111 @@
+{
+    "langues": [
+        {
+            "id": 1,
+            "langue": "Anglais",
+            "parleurs natif": "380,000,000",
+            "origine": "Germanic",
+            "parleurs total":"1,456,000,000"
+
+        },
+
+        {
+            "id": 2,
+            "langue": "Chinois Mandarin",
+            "parleurs natif": "939,000,000",
+            "origine": "Sintic",
+            "parleurs total":""
+
+        },
+
+        {
+            "id": 3,
+            "langue": "Hindi",
+            "parleurs natif": "345,000,000",
+            "origine": "Indo-Aryan",
+            "parleurs total":"609,000,000"
+
+        },
+
+        {
+            "id": 4,
+            "langue": "Espagnol",
+            "parleurs natif": "485,000,000",
+            "origine": "Romance",
+            "parleurs total":"559,000,000"
+
+        },
+
+        {
+            "id": 5,
+            "langue": "français",
+            "parleurs natif": "81,000,000",
+            "origine": "Romance",
+            "parleurs total":"310,000,000"
+
+        },
+
+        {
+            "id": 6,
+            "langue": "Bengali",
+            "parleurs natif": "234,000,000",
+            "origine": "Indo-Aryan",
+            "parleurs total":"273,000,000"
+
+        },
+
+        {
+            "id": 7,
+            "langue": "Portugais",
+            "parleurs natif": "234,000,000",
+            "origine": "Romance",
+            "parleurs total":"264,000,000"
+
+        },
+
+        {
+            "id": 8,
+            "langue": "Russe",
+            "parleurs natif": "147,000,000",
+            "origine": "Balto-Slavic",
+            "parleurs total":"250,000,000"
+
+        },
+
+        {
+            "id": 9,
+            "langue": "Ourdu",
+            "parleurs natif": "71,000,000",
+            "origine": "Indo-Aryan",
+            "parleurs total":"232,000,000"
+
+        },
+
+        {
+            "id": 10,
+            "langue": "Indonésien",
+            "parleurs natif": "44,000,000",
+            "origine": "Malayo-Polynesian",
+            "parleurs total":"199,000,000"
+
+        },
+
+        {
+            "id": 11,
+            "langue": "Allemand",
+            "parleurs natif": "75,000,000",
+            "origine": "Germanic",
+            "parleurs total":"133,000,000"
+
+        },
+
+        {
+            "id": 12,
+            "langue": "Arabe égyptien",
+            "parleurs natif": "77,000,000",
+            "origine": "Semitic",
+            "parleurs total":"102,000,000"
+
+        }
+    ]
+}
