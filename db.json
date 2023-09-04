@@ -11,7 +11,7 @@
 
         {
             "id": 2,
-            "langue": "Chinois Mandarin",
+            "langue": "Chinois ",
             "parleurs natif": "939,000,000",
             "origine": "Sintic",
             "parleurs total":""
@@ -101,7 +101,7 @@
 
         {
             "id": 12,
-            "langue": "Arabe égyptien",
+            "langue": "Arabe",
             "parleurs natif": "77,000,000",
             "origine": "Semitic",
             "parleurs total":"102,000,000"
